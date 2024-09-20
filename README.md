@@ -1,19 +1,28 @@
 # Healthcare-services
-Overview
-This project is a simple React.js application for managing health care services. Users can view, add, edit, and delete different health care services. The project simulates a basic CRUD (Create, Read, Update, Delete) operation on health services like general checkups, dental cleaning, and more.
+<h2>Overview</h2>
+<p>This project is a simple React.js application for managing health care services. Users can view, add, edit, and delete different health care services. The project simulates a basic CRUD (Create, Read, Update, Delete) operation on health services like general checkups, dental cleaning, and more.</p>
 
-Features
-List of Health Services: Display a list of available health care services with details like name, description, and price.
-Create Service: Add new health care services through a user-friendly form.
-Edit Service: Update the details of existing services.
-Delete Service: Remove a service from the list.
-Responsive Design: The application is mobile-friendly and adjusts well to different screen sizes.
-Technologies Used
-React.js: For building the user interface.
-React Router: For navigation between pages (Home, Edit, Create).
-JavaScript (ES6): Core logic implementation.
-CSS: For styling the components.
-Installation and Setup
+<h2>Features</h2>
+<ul>
+<li>
+  <h4>List of Health Services:</h4> Display a list of available health care services with details like name, description, and price.
+</li>
+
+<li><h4>Create Service: </h4>Add new health care services through a user-friendly form.</li>
+<li><h4>Edit Service:</h4> Update the details of existing services.</li>
+<li><h4>Delete Service:</h4> Remove a service from the list.</li>
+<li><h4>Responsive Design:</h4> The application is mobile-friendly and adjusts well to different screen sizes.</li>
+</ul>
+
+<h2>Technologies Used</h2>
+<ul>
+  <li>React.js: For building the user interface.</li>
+  <li>React Router: For navigation between pages (Home, Edit, Create).</li>
+  <li>JavaScript (ES6): Core logic implementation.</li>
+  <li>CSS: For styling the components.</li>
+  
+</ul>
+<h2>Installation and Setup</h2>
 Follow the steps below to get the project up and running on your local machine.
 
 Prerequisites
